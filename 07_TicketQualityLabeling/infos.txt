@@ -1,0 +1,13 @@
+Filter on word_count:
+
+DONE- Threshold: >5 Problem
+DONE- Threshold: >35 Solution
+
+-> 26865 remaining
+
+Filter on cluster quality:->
+-> 8187
+
+-> 207 Cluster übrig
+
+

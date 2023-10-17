@@ -1,0 +1,21 @@
+-------Problem Description-------
+Common sense:  175
+Cohens kappa for Problem:  0.545928160131615
+
+ 1    146
+-1     32
+ 0     29
+
+-------Solution Description-------
+Common sense:  158
+Cohens kappa for Solution:  0.43858969391708647
+
+ 1    120
+-1     49
+ 0     38
+
+
+Both labels are 1: 
+
+False    111
+True      96
