@@ -1,0 +1,4 @@
+1. remove unused fields
+2. Filter by ticketquality and cluster quality
+3. remove tickets without problem description
+4. Entferne Cluster mit 4 Ticket oder weniger
