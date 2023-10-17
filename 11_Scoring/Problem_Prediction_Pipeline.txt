@@ -1,0 +1,30 @@
+LinearSVC
+Recall: 0.683
+Accuracy: 0.600
+Precision: 0.590
+F1 Score: 0.536
+
+RandomForestClassifier
+Recall: 0.583
+Accuracy: 0.857
+Precision: 0.689
+F1 Score: 0.603
+
+
+SGDClassifier
+Recall: 0.600
+Accuracy: 0.314
+Precision: 0.586
+F1 Score: 0.314
+
+LogisticRegression
+Recall: 0.633
+Accuracy: 0.800
+Precision: 0.615
+F1 Score: 0.622
+
+KNN
+Recall: 0.583
+Accuracy: 0.714
+Precision: 0.553
+F1 Score: 0.554
